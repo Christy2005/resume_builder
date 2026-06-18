@@ -1,4 +1,4 @@
-#🎯 Resume Builder
+# 🎯 Resume Builder
 
 ### Team Name: [Name] Malibu
 
