@@ -1,6 +1,6 @@
 # 🎯 Resume Builder
 
-### Team Name: [Name] Malibu
+### Team Name: Malibu
 
 ### Team Members
 - Member 1: Christy Denees P-Muthoot Institute of Technology and Science
